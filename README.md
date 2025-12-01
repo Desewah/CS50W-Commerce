@@ -7,9 +7,14 @@ Users can create listings, place bids, leave comments, browse by category, and m
 **Project specification:**  
 https://cs50.harvard.edu/web/2020/projects/2/commerce/
 
+
+https://github.com/user-attachments/assets/5ca4d6ca-7998-484b-b9ed-92d110886109
+
+
 ---
 
 ## Demo Video  
+
 Watch the walkthrough here:  
 **YouTube:** [Project Demo](https://youtu.be/UCMxRqtfUrc?si=VaaR7uriatZI9Px4)
 
