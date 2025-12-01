@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/fff91ea9-b600-4b77-bd9d-f0d7a3f5c257
 
 
 Bid on an item
+
+
 https://github.com/user-attachments/assets/5ca4d6ca-7998-484b-b9ed-92d110886109
 
 
