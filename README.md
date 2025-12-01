@@ -46,3 +46,5 @@ Watch the full video here:
 2. Install dependencies  
 3. Run migrations  
 4. Start the Django development server  
+
+### Special thanks to CS50 for this opportunity.
